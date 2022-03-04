@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/lfern/.local/pipx/venvs/eth-brownie/lib/python3.7/site-packages/"
+    ],
+    "solidity.remappings": [
+        "@chainlink/=/home/lfern/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.2",
+      ]
+}
